@@ -1,3 +1,11 @@
+/**
+ * Partner Lab 3
+ * This file contains methods to run two types of games. Rock, Paper and Scissors, along with a Guessing Game. 
+ *
+ * @author Isabella Faith Guzmnan (Guessing Game )
+ * @author Kelly   (Rock,Paper Scissors)
+ */
+
 import java.util.Random;
 import java.util.Scanner;
 
